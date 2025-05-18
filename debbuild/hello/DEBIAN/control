@@ -1,0 +1,9 @@
+Package: hello
+Version: 0.0.1
+Section: base
+Priority: optional
+Architecture: all
+Build-Depends: gcc
+Depends: bash
+Maintainer: YourName <your.email@example.com>
+Description: A simple Hello World example script

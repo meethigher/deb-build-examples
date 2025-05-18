@@ -1,0 +1,8 @@
+Package: postgresql
+Version: 12.9
+Section: base
+Priority: optional
+Architecture: all
+Build-Depends: gcc,libreadline-dev,zlib1g-dev
+Maintainer: YourName <your.email@example.com>
+Description: A simple Hello World example script
